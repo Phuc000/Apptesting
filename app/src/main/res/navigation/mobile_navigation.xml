@@ -22,9 +22,10 @@
         android:name="com.example.apptest2.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
     <fragment
-        android:id="@+id/nav_Bundesliga"
-        android:name="com.example.apptest2.ui.home.Bundesliga"
+        android:id="@+id/nav_bundesliga"
+        android:name="com.example.apptest2.ui.bundesliga.BundesligaFragment"
         android:label="Bundesliga"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_bundesliga" />
 </navigation>
