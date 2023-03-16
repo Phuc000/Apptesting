@@ -18,7 +18,7 @@
             android:title="@string/menu_slideshow" />
         <item
             android:id="@+id/nav_Bundesliga"
-            android:icon="@drawable/ic_bundesliga"
+            android:icon="@drawable/bundesliga_seeklogo_svg"
             android:title="@string/menu_Bundesliga" />
     </group>
 </menu>
