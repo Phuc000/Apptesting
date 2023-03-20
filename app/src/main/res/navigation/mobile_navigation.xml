@@ -26,6 +26,6 @@
     <fragment
         android:id="@+id/nav_bundesliga"
         android:name="com.example.apptest2.ui.bundesliga.BundesligaFragment"
-        android:label="Bundesliga"
+        android:label="@string/menu_Bundesliga"
         tools:layout="@layout/fragment_bundesliga" />
 </navigation>

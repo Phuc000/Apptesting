@@ -16,7 +16,6 @@ public class BundesligaFragment extends Fragment {
 
     private FragmentBundesligaBinding binding;
 
-
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         BundesligaViewModel bundesligaViewModel =
